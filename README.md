@@ -1,3 +1,3 @@
 # module06VR
  
-https://felidaestudios.github.io/module06VR/
+https://github.com/FelidaeStudios/module06VR/releases
